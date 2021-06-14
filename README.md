@@ -9,6 +9,8 @@
 - ⛏ Interest:
   - Vue.js
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 👷🏼 Currently working on an **amazing project w/ [@rogerortiz7](https://github.com/rogerortiz7) & [@crimanlor](https://github.com/crimanlor)**
 
