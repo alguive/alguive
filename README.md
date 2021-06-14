@@ -14,7 +14,7 @@
 -->
 
 
-👷🏼 Currently working on an **amazing project w/ [@rogerortiz7](https://github.com/rogerortiz7) & [@crimanlor](https://github.com/crimanlor)**
+👷🏼 Currently working on **amazing projects w/ [@rogerortiz7](https://github.com/rogerortiz7) & [@crimanlor](https://github.com/crimanlor)**
 
 ![Alvaro's github stats](https://github-readme-stats.vercel.app/api?username=alguive&show_icons=true&theme=tokyonight&hide=issues)
 <!--
