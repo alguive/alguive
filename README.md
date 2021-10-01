@@ -2,7 +2,7 @@
 
 > 👨🏻‍💻 Back-end Developer
 
-🏗 Lets try to be a Full Stack Web Developer!
+🏗 Let's try to be a Full Stack Web Developer!
 
 Trying to improve every day working in projects and learning new technologies!
 
